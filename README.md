@@ -1,2 +1,2 @@
 # user-service
-Hands-On Practice: AWS EC2 and Docker and Jenkins
+Hands-On Practice: AWS EC2 and Docker and Jenkins Automatic Build
