@@ -11,5 +11,5 @@ public class UserController {
 	public ResponseEntity<String> greetMsg() {
 		return ResponseEntity.ok("Hi Welcome Kaladhar to AWS & Docker");
 	}
-	
+
 }
