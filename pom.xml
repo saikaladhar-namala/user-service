@@ -11,6 +11,7 @@
 	<groupId>com.kaladhar</groupId>
 	<artifactId>user-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>user-service</name>
 	<description>A Spring Boot Project to deploy on AWS using the Docker</description>
 	<url/>
