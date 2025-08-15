@@ -9,8 +9,6 @@ public class UserController {
 
 	@GetMapping("/greet")
 	public ResponseEntity<String> greetMsg() {
-
 		return ResponseEntity.ok("Hi Welcome Kaladhar to AWS & Docker");
-
 	}
 }
